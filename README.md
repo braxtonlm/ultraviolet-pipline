@@ -1,2 +1,2 @@
-# ultraviolet
+# ultraviolet-pipeline
 Heroku Ultraviolet Pipeline
